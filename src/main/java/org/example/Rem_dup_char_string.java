@@ -21,7 +21,6 @@ public class Rem_dup_char_string {
                     break;
                 }
             }
-
             // If the character is not present before, add it to resulting string
             if (j == i)
             {
@@ -41,17 +40,6 @@ public class Rem_dup_char_string {
         int len = str.length;
         //Calling removeDuplicates() method to remove duplicate characters
         removeDuplicate(str, len);
-
-        
     }
-
-
-
-
-
-
-
-
-
 
 }
