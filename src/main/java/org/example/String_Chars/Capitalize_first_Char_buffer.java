@@ -1,4 +1,4 @@
-package org.example;
+package org.example.String_Chars;
 
 public class Capitalize_first_Char_buffer {
 

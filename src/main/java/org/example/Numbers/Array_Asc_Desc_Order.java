@@ -1,12 +1,12 @@
-package org.example;
+package org.example.Numbers;
 
 public class Array_Asc_Desc_Order {
     int temp=0;
     int[] arr = new int[]{1,2,44,23};
     public static void main(String args[]){
 Array_Asc_Desc_Order m = new Array_Asc_Desc_Order();
-m.Asc();
-m.Desc();
+        m.Asc();
+        m.Desc();
     }
     public void Asc(){
 

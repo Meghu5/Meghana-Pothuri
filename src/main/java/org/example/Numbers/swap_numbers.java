@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Numbers;
 
 public class swap_numbers {
    static int a=20,b=30,temp;

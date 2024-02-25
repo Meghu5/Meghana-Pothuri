@@ -1,12 +1,11 @@
-package org.example;
+package org.example.Patterns;
 
-public class LeftPascalTriangle {
+public class RightPascalTriangle {
 
     public static void main(String args[]){
 
         for(int i=1;i<=5;i++){
-
-            for(int j=i;j<1;--j){
+            for(int j=1;j<=i;j++){
 
                 System.out.print("*"+" ");
             }

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.String_Chars;
 
 public class Swap_Strings {
     String a = "Java";

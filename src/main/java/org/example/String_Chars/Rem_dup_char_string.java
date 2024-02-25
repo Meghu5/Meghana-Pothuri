@@ -1,4 +1,4 @@
-package org.example;
+package org.example.String_Chars;
 
 import java.util.Arrays;
 import java.util.HashMap;

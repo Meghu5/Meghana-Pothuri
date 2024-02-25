@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Collections;
 
 public class Rem_Dup_Array {
 int count=0;

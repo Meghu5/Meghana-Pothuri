@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Collections;
 import java.util.*;
 public class Removeduplicate_Array {
 
