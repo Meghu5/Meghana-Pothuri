@@ -1,4 +1,4 @@
-package org.example.Files;
+package org.example.Reading_Files;
 // Java program to read and print all files
 // from a zip file
 

@@ -1,4 +1,4 @@
-package org.example.Numbers;
+package org.example.Collections;
 
 public class Array_Asc_Desc_Order {
     int temp=0;
