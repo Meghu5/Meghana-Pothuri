@@ -5,10 +5,10 @@ public class Array_Asc_Desc_Order {
     int[] arr = new int[]{1,2,44,23};
     public static void main(String args[]){
 Array_Asc_Desc_Order m = new Array_Asc_Desc_Order();
-        m.Asc();
-        m.Desc();
+        m.asc();
+        m.desc();
     }
-    public void Asc(){
+    public void asc(){
 
         for (int i=0;i<=arr.length;i++){
             for(int j=i+1;j<arr.length;j++){
@@ -25,7 +25,7 @@ Array_Asc_Desc_Order m = new Array_Asc_Desc_Order();
         }
 
     }
-    public void Desc(){
+    public void desc(){
 
         for (int i=0;i<=arr.length;i++){
             for(int j=i+1;j<arr.length;j++){

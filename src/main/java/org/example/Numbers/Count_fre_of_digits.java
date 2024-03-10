@@ -11,13 +11,13 @@ public class Count_fre_of_digits {
 		int i = 8329505;
 		
 		String a = Integer.toString(i);
-		
+
+		int v = Integer.parseInt(a);
+
 		HashMap<Character,Integer> map = new HashMap<Character,Integer>();
 		
 		// to char array
-		
 		char[] c = a.toCharArray();
-		
 		   //num = s.nextInt();
 	       for(char m : c){
 	           if(map.containsKey(m)){
@@ -30,9 +30,6 @@ public class Count_fre_of_digits {
 	        for(Map.Entry entry:map.entrySet()){
 	        	
 	        	System.out.println(entry.getKey()+"-"+entry.getValue());
-	        	
 	        }
-	            
 	}
-
 	}}
